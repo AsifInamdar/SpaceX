@@ -1,0 +1,5 @@
+schema: schema.sdl
+documents: '**/*.graphql'
+extensions:
+  endpoints:
+    url:"https://countries.trevorblades.com"
